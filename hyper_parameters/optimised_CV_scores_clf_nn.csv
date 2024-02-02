@@ -1,0 +1,6 @@
+,model,fold,test_score,train_score,y_name
+0,NeuralNetClassifier,0,0.4651260504201681,0.7661249204600336,mq_7_bad_mood
+1,NeuralNetClassifier,1,0.42357642357642356,0.7166342057052439,mq_7_bad_mood
+2,NeuralNetClassifier,2,0.27809523809523806,0.6951414843013666,mq_7_bad_mood
+3,NeuralNetClassifier,3,0.4241071428571429,0.692140921409214,mq_7_bad_mood
+4,NeuralNetClassifier,4,0.5191478696741855,0.6331368413462406,mq_7_bad_mood
