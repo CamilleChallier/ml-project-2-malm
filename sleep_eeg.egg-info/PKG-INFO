@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: sleep-eeg
+Version: 0.1.0
+Author: Camille Challier, Gonçalo Braga, Wesley Monteith-Finas
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# CS-422 Machine Learning Project 2
+
+
+## Setup
+
+```bash
+conda create -n malm python=3.10.8
+conda activate malm
+pip install -r requirements.txt
+pip install -e .
+pre-commit install
+```
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fEFF99tU)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12897745&assignment_repo_type=AssignmentRepo)
